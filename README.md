@@ -8,6 +8,8 @@ The directory should include a list of 12 employees. Everytime the page is refre
 
 When a user clicks on one of the cards, an overlay has to be displayed with detailled informations, a way to close the window and a possibility to switch forth and back between each employee.
 
+Searching for a user does two things: It searches for matching user names (full names) and hides the employees not matching the input. When displaying an employee's detailed information inside the overlay, switching back and forth only shows the employees currently displayed inside the directory (search results).
+
 Other than a mockup for how the page should look roundabout, nothing is provided and we need to write the necessary files from scratch.
 
 ### Provided Files
