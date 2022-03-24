@@ -81,6 +81,10 @@ h2 {
   background-color: #d2d2e97d;
 }
 
+.hidden {
+  display: none;
+}
+
 .thumbnail {
   max-width: 5rem;
   width: 25%
