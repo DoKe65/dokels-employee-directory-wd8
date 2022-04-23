@@ -252,7 +252,7 @@ hr {
     margin: 2rem 0 0;
   }
 
-  #left, #right, button {
+  #left, #right, button, .employee-card {
     cursor: pointer;
   }
 }
