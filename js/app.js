@@ -198,6 +198,7 @@ searchField.setAttribute("type", "text");
 searchField.setAttribute("name", "search");
 searchField.setAttribute("id", "search");
 searchField.setAttribute("placeholder", "Search for an employee");
+searchField.setAttribute("autocomplete", "off");
 header.lastElementChild.after(searchField);
 
 // string from search input field
